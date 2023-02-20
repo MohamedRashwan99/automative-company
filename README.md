@@ -1,1 +1,3 @@
 # automative-company
+
+projects notes
